@@ -1,10 +1,15 @@
 ---
 layout: post
-title:  "Project: Live Market Sentiment vs. Price"
+title:  "Project: Market Sentiment Tracker"
 date:   2018-06-20 17:15:11 +0000
-categories: jekyll
+categories: Data Science, REST APIs, Databases
 image:  /preview.jpg
 ---
+Today, market sentiment analysis is used widely by trading algorithms to pick the right stocks to buy. 
+
+This project tracks price and sentiment by the minute on 5 different cryptocurrencies and stocks. Price data gets fetched by the Alpha Vantage API and is displayed by Dash. Tweets get streamed through tweepy API and are stored in a SQLite database. Sentiment analysis determines whether the tweet contains a positive or negative message about the company. Twitter engagement is displayed on Dash. The project is written in Python and hosted on Heroku. 
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
