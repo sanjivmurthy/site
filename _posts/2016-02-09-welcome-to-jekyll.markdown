@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-02-09 17:15:11 +0000
+title:  "Project: Live Market Sentiment vs. Price"
+date:   2018-06-20 17:15:11 +0000
 categories: jekyll
 image:  /preview.jpg
 ---
