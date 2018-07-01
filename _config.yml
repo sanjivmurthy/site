@@ -1,14 +1,23 @@
-title: Strata by HTML5 UP
+itle: Strata by HTML5 UP
 description: >
   I'm **Sanjiv Murthy**, a 3rd year at UC Berkeley. 
 copyright: Untitled
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
+disqus_shortname: stratajekylldemo
+facebook_username:
+twitter_username: "#"
 linkedin_username: "sanjivmurthy"
+instagram_username:
+pinterest_username:
+flickr_username:
 github_username:  "sanjivmurthy"
 feed_icon: rss
 email: "sanjivp98@berkeley.edu"
 gems: [jekyll-paginate]
+paginate_path: "/page/:num/"
+paginate: 5
+
 
 
