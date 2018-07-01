@@ -5,5 +5,3 @@ categories: sensationalism
 ---
 
 Lorem ipsum
-
-
