@@ -1,18 +1,10 @@
 ---
 layout: post
-title:  "SeedType"
-category: projects
-date:   2017-01-22 17:15:11 +0000
-disqus: disabled
-excerpt: Uses statistical modeling techniques to predict a seed type given kernel data. Created 6 algorithmic models, picked the most accurate one, and showed 96% confidence in the model.
+title: "This post demonstrates post content styles"
+categories: styles
 ---
 
-<!--
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
--->
-
-<!--
 
 ## Some great heading (h2)
 
@@ -89,6 +81,3 @@ Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet b
 Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
 Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-
--->
