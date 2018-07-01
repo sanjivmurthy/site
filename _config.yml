@@ -5,13 +5,8 @@ copyright: Untitled
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
-disqus_shortname: stratajekylldemo
-
 linkedin_username: "sanjivmurthy"
-
 github_username:  "sanjivmurthy"
 feed_icon: rss
-email: "#"
+email: "sanjivp98@berkeley.edu"
 gems: [jekyll-paginate]
-paginate_path: "/page/:num/"
-paginate: 5
