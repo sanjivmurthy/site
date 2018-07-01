@@ -1,22 +1,14 @@
 title: Strata by HTML5 UP
 description: >
-  **I am Strata**, a super simple
-  responsive site template freebie
-  crafted by [HTML5 UP](http://html5up.net).
+  I'm **Sanjiv Murthy**, a 3rd year at UC Berkeley. 
 copyright: Untitled
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
-disqus_shortname: stratajekylldemo
-facebook_username:
-twitter_username: "#"
-linkedin_username: "#"
-instagram_username:
-pinterest_username:
-flickr_username:
-github_username:  "#"
+linkedin_username: "sanjivmurthy"
+github_username:  "sanjivmurthy"
 feed_icon: rss
-email: "#"
+email: "sanjivp98@berkeley.edu"
 gems: [jekyll-paginate]
-paginate_path: "/page/:num/"
-paginate: 5
+
+
