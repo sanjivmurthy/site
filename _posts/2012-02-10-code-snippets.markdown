@@ -1,13 +1,9 @@
 ---
 layout: post
-title: Code Snippets
-categories: Design
-excerpt: Quick overview on how to post code snippets using Liquid tags and how to escape or not escape markdown and HTML in your blog entries.
+title:  "About Me" 
+category: bio
+date:   1998-04-05 17:15:11 +0000
+disqus: disabled
 ---
+I'm Sanjiv Murthy, a 3rd year student at UC Berkeley majoring in Data Science with a concentration in Business Analytics. I'm interested in software engineering, machine learning, and quant trading . I like watching Lakers basketball, reading, and listening to rap music.
 
-Whenever you need to post a code snippet, use the liquid tags `highlight` and `endhighlight` like this:
-
-{% highlight ruby %}
-# some code goes here
-puts "Hello World!"
-{% endhighlight %}
