@@ -1,13 +1,11 @@
 itle: Strata by HTML5 UP
 description: >
   I'm **Sanjiv Murthy**, a 3rd year student at UC Berkeley. My bio is [here](https://sanjivmurthy.github.io/site/bio/2012/02/10/code-snippets.html). My projects are to the right.
-copyright: Untitled
+copyright: 2018
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
 disqus_shortname: stratajekylldemo
-facebook_username:
-twitter_username: "#"
 linkedin_username: "sanjivmurthy"
 instagram_username:
 pinterest_username:
