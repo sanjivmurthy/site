@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   <a href="https://github.com/sanjivmurthy/SeedType">"SeedType"</a>
+title:  "SeedType"
 category: projects
 date:   2017-01-22 17:15:11 +0000
 disqus: disabled

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <a href="google.com">"Market Sentiment Tracker"</a>
+title:  "Market Sentiment Tracker" 
 date:   2018-06-20 17:15:11 +0000
 categories: projects
 image:  /preview.jpg
